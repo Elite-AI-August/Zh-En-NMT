@@ -166,5 +166,5 @@ Bidirectional 2-Layer LSTM with Tanh, **1024 embed_size & hidden_size**, trained
 
 
 ## Contact
-If you have any questions or you have trouble running the code, feel free to contact me via [email](mailto:jasonfen@usc.edu)
+If you have any questions or you have trouble running the code, feel free to contact me via [email](mailto:carollhwrd@gmail.com)
 
